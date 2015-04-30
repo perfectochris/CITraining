@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="92915" started-at="2015-04-30T16:20:09Z" finished-at="2015-04-30T16:21:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="92915" started-at="2015-04-30T16:20:09Z" finished-at="2015-04-30T16:21:42Z">
+      <class name="mainTest.HomeDelivery.HomeDeliverySignup">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:mainTest.HomeDelivery.HomeDeliverySignup@5a01ccaa]" name="beforeTest" is-config="true" duration-ms="33578" started-at="2015-04-30T12:20:09Z" finished-at="2015-04-30T12:20:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iPhone 6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="mainTest()[pri:0, instance:mainTest.HomeDelivery.HomeDeliverySignup@5a01ccaa]" name="mainTest" duration-ms="50752" started-at="2015-04-30T12:20:42Z" finished-at="2015-04-30T12:21:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mainTest.HomeDelivery.HomeDeliverySignup@5a01ccaa]" name="afterTest" is-config="true" duration-ms="8567" started-at="2015-04-30T12:21:33Z" finished-at="2015-04-30T12:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- mainTest.HomeDelivery.HomeDeliverySignup -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

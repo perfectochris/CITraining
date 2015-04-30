@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <parameter name="targetEnvironment" value="Chrome"/>
+  <test name="Test(failed)" parallel="none">
+    <parameter name="targetEnvironment" value="Chrome"/>
+    <classes>
+      <class name="mainTest.HomeDelivery.HomeDeliverySignup">
+        <methods>
+          <include name="mainTest"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- mainTest.HomeDelivery.HomeDeliverySignup -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
